@@ -17,4 +17,4 @@ Desenvolver software com excelência, construindo ferramentas que transformem de
 Site oficial: [jrfp.dev](https://jrfp.dev)
 
 ---
-> Just JRFP
+> 🚀 Just JRFP
